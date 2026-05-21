@@ -11,11 +11,11 @@ body {
 }
 
 :root {
-  --color-bg: #0a0a0a;
-  --color-surface: rgba(26, 25, 25, 0.80);
+  --color-bg: #19161b;
+  --color-surface: rgba(37, 33, 37, 0.8);
   --color-primary: #a3a6ff;
   --color-text: #ffffff;
-  --color-text-muted: #adaaaa;
+  --color-text-muted: #acaaad;
 
   --nav-height: auto;
   --nav-padding: 2rem;
